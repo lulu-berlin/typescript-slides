@@ -10,6 +10,6 @@
   "author": "Ya'ar Hever <yaar.hever@tourlane.com>",
   "license": "ISC",
   "devDependencies": {
-    "fusuma": "^1.1.2"
+    "fusuma": "^1.16.0"
   }
 }
